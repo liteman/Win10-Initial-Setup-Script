@@ -1,0 +1,155 @@
+# BMT preset
+
+RequireAdmin
+
+### Disable
+# DisableAdobeFlash
+# DisableCtrlAltDelLogin
+# DisableDefender
+# DisableDefenderCloud
+# DisableDefragmentation
+# DisableFastStartup
+# DisableFirewall
+# DisableHomeGroups
+# DisableIEEnhancedSecurity
+# DisableIndexing
+# DisableLLMNR
+# DisableLockScreen
+# DisableLockScreenRS1
+# DisableNetDevicesAutoInst
+# DisablePasswordPolicy
+# DisableShutdownTracker
+# DisableSleepButton
+# DisableSleepTimeout
+# DisableSmartScreen
+# DisableSMBServer
+# DisableSuperfetch
+# DisableThumbnails
+# DisableUpdateDriver
+# DisableUpdateMSRT
+DisableActionCenter
+DisableActivityHistory
+DisableAdminShares
+DisableAdvertisingID
+DisableAppSuggestions
+DisableAutoplay
+DisableAutorun
+DisableBackgroundApps
+DisableCortana
+DisableDiagTrack
+DisableEdgeShortcutCreation
+DisableErrorReporting
+DisableFeedback
+DisableLocationTracking
+DisableMapUpdates
+DisableNewAppPrompt
+DisableOneDrive
+DisableRemoteAssistance
+DisableScriptHost
+DisableSearchAppInStore
+DisableSharedExperiences
+DisableSMB1
+DisableStickyKeys
+DisableTailoredExperiences
+DisableTelemetry
+DisableThumbnailCache
+DisableThumbsDBOnNetwork
+DisableUpdateRestart
+DisableWAPPush
+DisableWebLangList
+DisableWebSearch
+DisableWiFiSense
+DisableXboxFeatures
+
+### Enable
+# EnableAudio
+# EnableCIMemoryIntegrity
+# EnableCtrldFolderAccess
+# EnableFileDeleteConfirm
+# EnableHibernation
+# EnableMeltdownCompatFlag
+# EnableNumlock
+# EnableRemoteDesktop
+# EnableSharingMappedDrives
+# EnableStorageSense
+EnableDotNetStrongCrypto
+EnableF8BootMenu
+
+### Set
+# SetBIOSTimeUTC
+# SetP2PUpdateLocal
+# SetUACLow
+# SetUnknownNetworksPrivate
+SetCurrentNetworkPrivate
+SetDEPOptOut
+SetExplorerThisPC
+SetPhotoViewerAssociation
+SetTaskbarCombineWhenFull
+SetVisualFXPerformance
+
+### Install
+# InstallHyperV
+# InstallLinuxSubsystem
+
+### Uninstall
+# UninstallInternetExplorer
+# UninstallMediaPlayer
+# UninstallPDFPrinter
+# UninstallThirdPartyBloat
+# UninstallWindowsStore
+UninstallFaxAndScanServices
+UninstallMsftBloat
+UninstallOneDrive
+UninstallWorkFolders
+UninstallXPSPrinter
+
+### Hide
+# Hide3DObjectsFromExplorer
+# HideAccountProtectionWarn
+# HideDesktopFromExplorer
+# HideDesktopFromThisPC
+# HideDocumentsFromExplorer
+# HideDocumentsFromThisPC
+# HideDownloadsFromExplorer
+# HideDownloadsFromThisPC
+# HideMusicFromExplorer
+# HidePicturesFromExplorer
+# HideServerManagerOnLogin
+# HideVideosFromExplorer
+Hide3DObjectsFromThisPC
+HideMusicFromThisPC
+HideNetworkFromLockScreen
+HidePicturesFromThisPC
+HideRecentShortcuts
+HideSelectCheckboxes
+HideShutdownFromLockScreen
+HideSyncNotifications
+HideTaskbarPeopleIcon
+HideTaskbarSearch
+HideTaskView
+HideVideosFromThisPC
+
+### Show
+# ShowThisPCOnDesktop
+# ShowUserFolderOnDesktop
+#ShowHiddenFiles
+ShowFileOperationsDetails
+ShowKnownExtensions
+ShowSmallTaskbarIcons
+ShowTaskManagerDetails
+ShowTrayIcons
+
+### Add
+# AddENKeyboard
+AddPhotoViewerOpenWith
+
+### Unpin
+# UnpinStartMenuTiles
+# UnpinTaskbarIcons
+
+### Remove
+RemoveFaxPrinter
+
+
+WaitForKey
+Restart
